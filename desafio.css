@@ -1,0 +1,30 @@
+.body {
+    background-color: #E8DAB2;
+}
+.header {
+    position: relative;
+}
+.salsichinha {
+    height: 192px;
+    width: 370px;
+    position: absolute;
+    right: 0;
+}
+
+.main {
+    margin-left: 50%;
+    transform: translateX(-50%);
+    border: 1px;
+    background-color: white;
+    padding-top: 34px;
+    padding-bottom: 10px;
+    padding-left: 24px;
+    padding-right: 24px;
+}
+
+.footer {
+    bottom: 0;
+    right: 0;
+    background-color: #090909;
+    width: 100%;
+}
